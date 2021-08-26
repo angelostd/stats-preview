@@ -30,8 +30,8 @@ Desktop
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/any-comment-is-always-welcome-_tdAcwZoN
+- Live Site URL: https://angelostd.github.io/stats-preview/
 
 ## My process
 
