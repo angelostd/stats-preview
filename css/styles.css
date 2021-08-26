@@ -117,7 +117,7 @@ body{
     }
 
     .header {
-        background-image: url('../images/image-header-desktop.jpg');
+        background-image: url('../../images/image-header-desktop.jpg');
         display: block;
         margin: 0;
         width: 100%;
